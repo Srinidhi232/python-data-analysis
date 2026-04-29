@@ -1,6 +1,6 @@
 # python-data-analysis
 
-This project was completed as part of the Great Learning Artificial Intelligence and Machine Learning program, where I applied machine learning and predictive analytics concepts to renewable energy telemetry data.
+This project was completed as part of the Great Learning Artificial Intelligence and Machine Learning program.
 
 The number of restaurants in New York is increasing day by day. Lots of students and busy professionals rely on those restaurants due to their hectic lifestyles. Online food delivery service is a great option for them. It provides them with good food from their favorite restaurants. A food aggregator company FoodHub offers access to multiple restaurants through a single smartphone app.
 
